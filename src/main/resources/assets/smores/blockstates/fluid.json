@@ -49,6 +49,9 @@
 		}],
 		"molten_brass": [{
 			"custom": {"fluid": "smores.molten_brass"}
+		}],
+		"molten_titanium": [{
+			"custom": {"fluid": "smores.molten_titanium"}
 		}]
 	}
 }

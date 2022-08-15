@@ -33,6 +33,11 @@
                 "textures": {
                     "all": "smores:blocks/ore_mercury"
                 }
+            },
+            "titanium": {
+                "textures": {
+                    "all": "smores:blocks/ore_titanium"
+                }
             }
         },
         "inventory": [{}]

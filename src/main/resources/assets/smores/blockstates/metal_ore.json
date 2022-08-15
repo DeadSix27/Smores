@@ -48,6 +48,11 @@
                 "textures": {
                     "all": "smores:blocks/ore_nickel"
                 }
+            },
+            "titanium": {
+                "textures": {
+                    "all": "smores:blocks/ore_titanium"
+                }
             }
         },
         "inventory": [{}]

@@ -45,6 +45,13 @@
                     "bottom": "smores:blocks/block_steel_bottom",
                     "side": "smores:blocks/block_steel_side"
                 }
+            },
+            "titanium": {
+                "textures": {
+                    "top": "smores:blocks/block_titanium_top",
+                    "bottom": "smores:blocks/block_titanium_bottom",
+                    "side": "smores:blocks/block_titanium_side"
+                }
             }
         },
         "inventory": [{}]

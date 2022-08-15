@@ -14,6 +14,7 @@ item.smores.steel_ingot.name=Steel Ingot
 item.smores.bronze_ingot.name=Bronze Ingot
 item.smores.brass_ingot.name=Brass Ingot
 item.smores.plutonium_ingot.name=Plutonium Ingot
+item.smores.titanium_ingot.name=Titanium Ingot
 
 ############# GLOBS #############
 item.smores.mercury_glob.name=Mercury
@@ -35,6 +36,7 @@ tile.smores.nether_ore_sulfur.name=Sulfur Ore
 tile.smores.nether_ore_nitre.name=Nitre Ore
 tile.smores.nether_ore_uranium.name=Uranium Ore
 tile.smores.nether_ore_plutonium.name=Plutonium Ore
+tile.smores.nether_ore_titanium.name=Titanium Ore
 
 ############# MATERIAL BLOCKS #############
 tile.smores.metal_block_copper.name=Block of Copper
@@ -55,6 +57,7 @@ tile.smores.gem_block_sapphire.name=Block of Sapphire
 tile.smores.gem_block_peridot.name=Block of Peridot
 tile.smores.metal_block_uranium.name=Block of Uranium
 tile.smores.metal_block_plutonium.name=Block of Plutonium
+tile.smores.metal_block_titanium.name=Block of Titanium
 
 ############# FLUIDS #############
 fluid.smores.molten_copper=Molten Copper
@@ -72,6 +75,7 @@ fluid.smores.molten_bronze=Molten Bronze
 fluid.smores.molten_brass=Molten Brass
 fluid.smores.molten_iron=Molten Iron
 fluid.smores.molten_gold=Molten Gold
+fluid.smores.molten_titanium=Molten Titanium
 
 ############# GEMS #############
 item.smores.ruby_gem.name=Ruby
@@ -99,6 +103,7 @@ item.smores.sulfur_dust.name=Sulfur
 item.smores.nitre_dust.name=Nitre
 item.smores.uranium_dust.name=Uranium Dust
 item.smores.plutonium_dust.name=Plutonium Dust
+item.smores.titanium_dust.name=Titanium Dust
 
 item.smores.lapis_dust.name=Lapis Dust
 
@@ -120,6 +125,7 @@ item.smores.bronze_plate.name=Bronze Plate
 item.smores.brass_plate.name=Brass Plate
 item.smores.uranium_plate.name=Uranium Plate
 item.smores.plutonium_plate.name=Plutonium Plate
+item.smores.titanium_plate.name=Titanium Plate
 
 ############# GEARS #############
 item.smores.iron_gear.name=Iron Gear
@@ -139,6 +145,7 @@ item.smores.bronze_gear.name=Bronze Gear
 item.smores.brass_gear.name=Brass Gear
 item.smores.uranium_gear.name=Uranium Gear
 item.smores.plutonium_gear.name=Plutonium Gear
+item.smores.titanium_gear.name=Titanium Gear
 
 ############# NUGGETS #############
 item.smores.copper_nugget.name=Copper Nugget
@@ -156,6 +163,7 @@ item.smores.bronze_nugget.name=Bronze Nugget
 item.smores.brass_nugget.name=Brass Nugget
 item.smores.uranium_nugget.name=Uranium Nugget
 item.smores.plutonium_nugget.name=Plutonium Nugget
+item.smores.titanium_nugget.name=Titanium Nugget
 
 ############# RODS #############
 item.smores.uranium_rod.name=Uranium Rod

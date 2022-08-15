@@ -2,9 +2,9 @@
 
 ext {
 	group = 'com.elytradev'
-	projectName = 'Smores'
+	projectName = 'SmoresEdit'
 
-	version = '0.2.1'
+	version = '0.2.2'
 
 	concreteVersion = '0.4.46'
 	concreteModules = [ 'common' ]

@@ -64,14 +64,15 @@ public enum EnumMaterial implements IStringSerializable {
 	NITRE("Nitre",          20, 0xFF000000, -1,     -1),
 	MERCURY("Mercury",      21, 0xFF000000, -1,     -1),
 	LAPIS("Lapis",          22, 0xFF3030EF, -1,     -1),
-	PLUTONIUM("Plutonium",	23, 0xFF6849DB, -1,		-1);
+	PLUTONIUM("Plutonium",	23, 0xFF6849DB, -1,		-1),
+	TITANIUM("Titanium",    24, 0xFFA4B6BD, 7800,   1644);
 
 	public static EnumSet<EnumMaterial> SMORES_METALS = EnumSet.of(COPPER, TIN, LEAD, SILVER, NICKEL, PLATINUM,
-			MITHRIL, ZINC);
+			MITHRIL, ZINC, TITANIUM);
 
 	// Smores Metals + Vanilla
 	public static EnumSet<EnumMaterial> SMORES_METALS_WITH_VANILLA = EnumSet.of(COPPER, TIN, LEAD, SILVER, NICKEL,
-			PLATINUM, MITHRIL, ZINC, IRON, GOLD);
+			PLATINUM, MITHRIL, ZINC, TITANIUM, IRON, GOLD);
 
 	public static EnumSet<EnumMaterial> SMORES_ALLOYS = EnumSet.of(ELECTRUM, INVAR, STEEL, BRONZE, BRASS);
 
@@ -79,19 +80,19 @@ public enum EnumMaterial implements IStringSerializable {
 
 	// Smores Metals + Irregular Metals
 	public static EnumSet<EnumMaterial> SMORES_ELEMENTAL_METALS = EnumSet.of(COPPER, TIN, LEAD, SILVER, NICKEL,
-			PLATINUM, MITHRIL, ZINC, URANIUM, PLUTONIUM);
+			PLATINUM, MITHRIL, ZINC, URANIUM, PLUTONIUM, TITANIUM);
 
 	// Smores Elemental Metals + Alloys
 	public static EnumSet<EnumMaterial> SMORES_METALLIC = EnumSet.of(COPPER, TIN, LEAD, SILVER, NICKEL, PLATINUM,
-			MITHRIL, ZINC, URANIUM, PLUTONIUM, ELECTRUM, INVAR, STEEL, BRONZE, BRASS);
+			MITHRIL, ZINC, URANIUM, PLUTONIUM, ELECTRUM, INVAR, STEEL, BRONZE, BRASS, TITANIUM);
 
 	// Smores Metallic + Vanilla
 	public static EnumSet<EnumMaterial> SMORES_METALLIC_WITH_VANILLA = EnumSet.of(COPPER, TIN, LEAD, SILVER, NICKEL,
-			PLATINUM, MITHRIL, ZINC, URANIUM, PLUTONIUM, ELECTRUM, INVAR, STEEL, BRONZE, BRASS, IRON, GOLD);
+			PLATINUM, MITHRIL, ZINC, URANIUM, PLUTONIUM, ELECTRUM, INVAR, STEEL, BRONZE, BRASS, IRON, GOLD, TITANIUM);
 
 	public static EnumSet<EnumMaterial> SMORES_DUSTABLE = EnumSet.of(COPPER, TIN, LEAD, SILVER, NICKEL,
 			PLATINUM, MITHRIL, ZINC, URANIUM, PLUTONIUM, ELECTRUM, INVAR, STEEL, BRONZE, BRASS, IRON, GOLD, LAPIS,
-			SULFUR, NITRE);
+			SULFUR, NITRE, TITANIUM);
 
 	private String materialName;
 	private int id;

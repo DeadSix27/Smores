@@ -80,6 +80,13 @@
                     "bottom": "smores:blocks/block_plutonium_bottom",
                     "side": "smores:blocks/block_plutonium_side"
                 }
+            },
+            "plutonium": {
+                "textures": {
+                    "top": "smores:blocks/block_titanium_top",
+                    "bottom": "smores:blocks/block_titanium_bottom",
+                    "side": "smores:blocks/block_titanium_side"
+                }
             }
         },
         "inventory": [{}]
