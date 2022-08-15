@@ -76,6 +76,22 @@ fluid.smores.molten_brass=Molten Brass
 fluid.smores.molten_iron=Molten Iron
 fluid.smores.molten_gold=Molten Gold
 fluid.smores.molten_titanium=Molten Titanium
+tile.smores.molten_copper.name=Molten Copper
+tile.smores.molten_tin.name=Molten Tin
+tile.smores.molten_lead.name=Molten Lead
+tile.smores.molten_nickel.name=Molten Nickel
+tile.smores.molten_silver.name=Molten Silver
+tile.smores.molten_platinum.name=Molten Platinum
+tile.smores.molten_mithril.name=Molten Mithril
+tile.smores.molten_zinc.name=Molten Zinc
+tile.smores.molten_electrum.name=Molten Electrum
+tile.smores.molten_invar.name=Molten Invar
+tile.smores.molten_steel.name=Molten Steel
+tile.smores.molten_bronze.name=Molten Bronze
+tile.smores.molten_brass.name=Molten Brass
+tile.smores.molten_iron.name=Molten Iron
+tile.smores.molten_gold.name=Molten Gold
+tile.smores.molten_titanium.name=Molten Titanium
 
 ############# GEMS #############
 item.smores.ruby_gem.name=Ruby
