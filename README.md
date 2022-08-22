@@ -29,31 +29,32 @@ We're trying to make the "perfect" substratum for *us* - one that doesn't do all
 Don't! This is primarily to establish a precedent of mods that offload the task of ore/metals/materials generation onto other, more flexible mods, and reduce the cruft of duplicated ores. If your favourite mod already generates ores, then this mod only adds noise.
 
 ### Q. What does this mod currently add?
-* Titanium
-* Copper
-* Tin
-* Lead
-* Silver
-* Nickel
-* Platinum
-* Mithril
-* Zinc
-* Iron (products)
-* Gold (products)
-* Uranium
-* Electrum
-* Invar
-* Steel
-* Bronze
+* Aluminium
 * Brass
+* Bronze
+* Copper
+* Electrum
+* Gold (products)
+* Invar
+* Iron (products)
+* Lapis (products)
+* Lead
+* Mercury
+* Mithril
+* Nickel
+* Nitre
+* Peridot
+* Platinum
+* Plutonium
 * Ruby
 * Sapphire
-* Peridot
+* Silver
+* Steel
 * Sulfur
-* Nitre
-* Mercury
-* Lapis (products)
-* Plutonium
+* Tin
+* Titanium
+* Uranium
+* Zinc
 
 
 ## Credits
