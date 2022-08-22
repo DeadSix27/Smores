@@ -87,6 +87,13 @@
                     "bottom": "smores:blocks/block_titanium_bottom",
                     "side": "smores:blocks/block_titanium_side"
                 }
+            },
+            "aluminium": {
+                "textures": {
+                    "top": "smores:blocks/block_aluminium_top",
+                    "bottom": "smores:blocks/block_aluminium_bottom",
+                    "side": "smores:blocks/block_aluminium_side"
+                }
             }
         },
         "inventory": [{}]

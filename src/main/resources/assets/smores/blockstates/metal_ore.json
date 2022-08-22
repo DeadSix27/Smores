@@ -53,6 +53,11 @@
                 "textures": {
                     "all": "smores:blocks/ore_titanium"
                 }
+            },
+            "aluminium": {
+                "textures": {
+                    "all": "smores:blocks/ore_aluminium"
+                }
             }
         },
         "inventory": [{}]

@@ -52,6 +52,9 @@
 		}],
 		"molten_titanium": [{
 			"custom": {"fluid": "smores.molten_titanium"}
+		}],
+		"molten_aluminium": [{
+			"custom": {"fluid": "smores.molten_aluminium"}
 		}]
 	}
 }
